@@ -1,1 +1,1 @@
-VAT algorithms implemented for my convenience.
+VAT algorithms implemented.
