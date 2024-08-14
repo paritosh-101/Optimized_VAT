@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "vat_algorithms"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
-  { name="Paritosh", email="" },
+  { name="Paritosh Tiwari", email="" },
   { name="Krishna Murthy", email=""}
 ]
 description = "Visual Assessment of Cluster Tendency (VAT) family of Algorithms"
@@ -16,6 +16,11 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent"
+]
+
+dependencies = [
+    "numpy>=1.20.0",
+    "tqdm"
 ]
 
 [project.urls]

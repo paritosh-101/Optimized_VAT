@@ -42,7 +42,7 @@
 
 import numpy as np
 from tqdm import tqdm
-from VAT_library.VAT import VAT
+from VAT import VAT
 # from VAT_library.pq_VAT import optimized_VAT_with_pq as VAT
 
 def iVAT(R, VATflag=False):
