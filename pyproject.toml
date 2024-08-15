@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "vat_algorithms"
-version = "1.0.2"
+version = "1.0.3"
 authors = [
   { name="Paritosh Tiwari", email="" },
   { name="Krishna Murthy", email=""}
